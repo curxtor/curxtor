@@ -1,8 +1,8 @@
- <img src="https://i.imgur.com/nAvUepT.jpeg" width ="100%">
+ <img src="https://i.imgur.com/MnPmYC2.jpeg" width ="100%">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-I am Roman Sviridonov, an aspiring fullstack developer working with different projects for different tasks.
+Hi! My name is Roman. I am aspiring fullstack developer working with different projects for different tasks.
 I like to solve problems of different complexity and learn something new.
 Also I am confident with Data Structures, Object-Oriented Programming, Database Management Systems, Operating Systems.
 </p>
