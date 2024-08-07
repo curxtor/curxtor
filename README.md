@@ -1,4 +1,4 @@
- <img src="https://i.imgur.com/MnPmYC2.jpeg" width ="100%">
+ <img src="https://i.imgur.com/iSTopjA.png" width ="100%">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
